@@ -1,12 +1,11 @@
 ## 👋 Hi, I’m Gabriel!
 
 I'm an engineering student at University of São Paulo, Brazil 🇧🇷. 
-Currently in a mobility program at Politecnico di Torino, Italy 🇮🇹. 
-Also working part-time as a software engineer.
+I also did a Double Degree mobility program at Politecnico di Torino, Italy 🇮🇹.
 
 - 👀 Interested in robotics, automatic control, web development and programming in general
-- 🌱 Currently learning Rust, React and French
-- 🔮 Looking forward to learning Elixir and more about Kotlin in the future
+- 🌱 Currently learning Elixir, Rust, React and French
+- 🔮 Looking forward to learning Kubernetes and more about Kotlin in the future
 
 ### Get in touch:
 
@@ -26,6 +25,8 @@ Also working part-time as a software engineer.
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+
+<img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
 
 <img src="https://img.shields.io/badge/MATLAB-CC0000?style=for-the-badge&logo=mathworks&logoColor=white"><img src="https://img.shields.io/badge/Simulink-1000AA?style=for-the-badge&logoColor=white">
 
