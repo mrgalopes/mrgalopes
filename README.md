@@ -1,13 +1,15 @@
-## 👋 Hi, I’m Gabriel!
+## 👋 Hello there! Great to see you!
 
-I'm an engineering student at University of São Paulo, Brazil 🇧🇷. 
-I also did a Double Degree mobility program at Politecnico di Torino, Italy 🇮🇹.
+I'm Gabriel, an engineer from Brazil 🇧🇷. 
 
-- 👀 Interested in robotics, automatic control, web development and programming in general
-- 🌱 Currently learning Elixir, Rust, React and French
-- 🔮 Looking forward to learning Kubernetes and more about Kotlin in the future
+I studied Mechatronics at the University of São Paulo, and did a Master of Science degree in Computer Engineering in my mobility program at Politecnico di Torino, in Italy 🇮🇹.
 
-### Get in touch:
+Currently working @ [N&DC Systems Integrator](https://ndc.com.br) as a Software Developer and Observability Technical Specialist. My profile there is [gabriel-ndc](https://github.com/gabriel-ndc).
+
+- 👀 Interested in robotics, automatic control, web development, observability, and programming in general
+- 🌱 Currently learning Computer Graphics, Rust and Spanish
+
+### You can find me at:
 
 <a href="https://www.linkedin.com/in/gabriel-l-rodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
@@ -18,11 +20,16 @@ I also did a Double Degree mobility program at Politecnico di Torino, Italy 🇮
     - https://simpleicons.org/
 -->
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"><img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"><img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"><img src="https://img.shields.io/badge/Cisco AppDynamics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 
